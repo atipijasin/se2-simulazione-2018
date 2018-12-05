@@ -6,7 +6,7 @@ const PORT = process.env.PORT || 3000
 
 app.get("/", async (req, res) => {
     try {
-        res.send("square_string(s)");
+        res.json({msg: "square_string(s)"});
     } catch (error) {
         console.log(error);
     }
@@ -24,5 +24,3 @@ app.get("/square", async (req, res) => {
 });
 
 app.listen(PORT, () => console.log('square_string(s) app listening on port ' + PORT));
-
-module.exports = { app }

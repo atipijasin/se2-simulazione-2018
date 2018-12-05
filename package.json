@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/atipiJ/se2-simulazione-2018/issues"
   },
-  "homepage": "https://github.com/atipiJ/se2-simulazione-2018#readme"
+  "homepage": "https://github.com/atipiJ/se2-simulazione-2018#readme",
+  "devDependencies": {
+    "jest": "^23.6.0",
+    "node-fetch": "^2.3.0"
+  }
 }
