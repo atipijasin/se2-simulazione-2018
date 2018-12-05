@@ -1,0 +1,23 @@
+{
+  "name": "se2-simulazione-2018",
+  "version": "1.0.0",
+  "description": "SE2 simulazione di Atipi Jasin",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "jest": {
+    "verbose": true,
+    "collectCoverage": true
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atipiJ/se2-simulazione-2018.git"
+  },
+  "author": "Atipi Jasin",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/atipiJ/se2-simulazione-2018/issues"
+  },
+  "homepage": "https://github.com/atipiJ/se2-simulazione-2018#readme"
+}
