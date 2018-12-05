@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/atipiJ/se2-simulazione-2018#readme",
   "devDependencies": {
+    "express": "^4.16.4",
     "jest": "^23.6.0",
     "node-fetch": "^2.3.0"
   }
